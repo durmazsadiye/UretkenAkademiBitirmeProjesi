@@ -1,0 +1,28 @@
+/* EtnografyaMüze.css */
+
+.etnografya-muze-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .museum-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin-bottom: 2rem;
+  }
+  
+  .description {
+    text-align: justify;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
